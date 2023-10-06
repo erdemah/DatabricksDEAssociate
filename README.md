@@ -1,0 +1,2 @@
+# DatabricksDEAssociate
+Databricks Partner Training
